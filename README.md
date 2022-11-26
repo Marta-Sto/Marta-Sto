@@ -9,6 +9,6 @@
 - In my research I compare measures of neural variability in time, frequency, and information-theoretic domains to standard markers of 
 - neural activity in resting-state MEG and fMRI data from the Human Connectome Project.
 - 
-- 📫 [Drop me a message on ](https://www.linkedin.com/in/marta-stojanovic/)
+- 📫 [Drop me a message](https://www.linkedin.com/in/marta-stojanovic/)
 
-✨ would love to connect! ✨
+✨ If your in a similar field/your research interests align with mine, or even if not, feel free to reach out - I would love to connect! ✨
