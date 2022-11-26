@@ -5,6 +5,7 @@
 
 🌱 I’m currently completing an internship at the Max Planck Institute for Human Development where I'm researching brain-signal variability. In my research I compare measures of neural variability in time, frequency, and information-theoretic domains to standard markers of neural activity in resting-state MEG and fMRI data from the Human Connectome Project.
 
+✨ If you're in a similar field/your research interests align with mine, or even if not, feel free to reach out - I would love to connect! ✨
+
 📫 [Drop me a message](https://www.linkedin.com/in/marta-stojanovic/)
 
-✨ If you're in a similar field/your research interests align with mine, or even if not, feel free to reach out - I would love to connect! ✨
